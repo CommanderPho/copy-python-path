@@ -5,3 +5,5 @@ node_modules
 *.vsix
 yarn-error.log
 .DS_Store
+desktop.ini
+FM-{E9C14E83-6E92-4509-AE95-32A43A985464}.ico
